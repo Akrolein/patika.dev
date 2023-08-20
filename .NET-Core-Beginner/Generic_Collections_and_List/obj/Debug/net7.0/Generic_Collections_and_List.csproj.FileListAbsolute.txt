@@ -1,0 +1,14 @@
+D:\Generic_Collections_and_List\bin\Debug\net7.0\Generic_Collections_and_List.exe
+D:\Generic_Collections_and_List\bin\Debug\net7.0\Generic_Collections_and_List.deps.json
+D:\Generic_Collections_and_List\bin\Debug\net7.0\Generic_Collections_and_List.runtimeconfig.json
+D:\Generic_Collections_and_List\bin\Debug\net7.0\Generic_Collections_and_List.dll
+D:\Generic_Collections_and_List\bin\Debug\net7.0\Generic_Collections_and_List.pdb
+D:\Generic_Collections_and_List\obj\Debug\net7.0\Generic_Collections_and_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Generic_Collections_and_List\obj\Debug\net7.0\Generic_Collections_and_List.AssemblyInfoInputs.cache
+D:\Generic_Collections_and_List\obj\Debug\net7.0\Generic_Collections_and_List.AssemblyInfo.cs
+D:\Generic_Collections_and_List\obj\Debug\net7.0\Generic_Collections_and_List.csproj.CoreCompileInputs.cache
+D:\Generic_Collections_and_List\obj\Debug\net7.0\Generic_Collections_and_List.dll
+D:\Generic_Collections_and_List\obj\Debug\net7.0\refint\Generic_Collections_and_List.dll
+D:\Generic_Collections_and_List\obj\Debug\net7.0\Generic_Collections_and_List.pdb
+D:\Generic_Collections_and_List\obj\Debug\net7.0\Generic_Collections_and_List.genruntimeconfig.cache
+D:\Generic_Collections_and_List\obj\Debug\net7.0\ref\Generic_Collections_and_List.dll
