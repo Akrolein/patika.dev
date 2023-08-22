@@ -1,0 +1,14 @@
+D:\github\Instance-Field-Property\obj\Debug\net7.0\Instance-Field-Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Instance-Field-Property\obj\Debug\net7.0\Instance-Field-Property.AssemblyInfoInputs.cache
+D:\github\Instance-Field-Property\obj\Debug\net7.0\Instance-Field-Property.AssemblyInfo.cs
+D:\github\Instance-Field-Property\obj\Debug\net7.0\Instance-Field-Property.csproj.CoreCompileInputs.cache
+D:\github\Instance-Field-Property\bin\Debug\net7.0\Instance-Field-Property.exe
+D:\github\Instance-Field-Property\bin\Debug\net7.0\Instance-Field-Property.deps.json
+D:\github\Instance-Field-Property\bin\Debug\net7.0\Instance-Field-Property.runtimeconfig.json
+D:\github\Instance-Field-Property\bin\Debug\net7.0\Instance-Field-Property.dll
+D:\github\Instance-Field-Property\bin\Debug\net7.0\Instance-Field-Property.pdb
+D:\github\Instance-Field-Property\obj\Debug\net7.0\Instance-Field-Property.dll
+D:\github\Instance-Field-Property\obj\Debug\net7.0\refint\Instance-Field-Property.dll
+D:\github\Instance-Field-Property\obj\Debug\net7.0\Instance-Field-Property.pdb
+D:\github\Instance-Field-Property\obj\Debug\net7.0\Instance-Field-Property.genruntimeconfig.cache
+D:\github\Instance-Field-Property\obj\Debug\net7.0\ref\Instance-Field-Property.dll

@@ -1,0 +1,14 @@
+D:\github\Instance-Property-Struct-Enum\bin\Debug\net7.0\Instance-Property-Struct-Enum.exe
+D:\github\Instance-Property-Struct-Enum\bin\Debug\net7.0\Instance-Property-Struct-Enum.deps.json
+D:\github\Instance-Property-Struct-Enum\bin\Debug\net7.0\Instance-Property-Struct-Enum.runtimeconfig.json
+D:\github\Instance-Property-Struct-Enum\bin\Debug\net7.0\Instance-Property-Struct-Enum.dll
+D:\github\Instance-Property-Struct-Enum\bin\Debug\net7.0\Instance-Property-Struct-Enum.pdb
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\Instance-Property-Struct-Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\Instance-Property-Struct-Enum.AssemblyInfoInputs.cache
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\Instance-Property-Struct-Enum.AssemblyInfo.cs
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\Instance-Property-Struct-Enum.csproj.CoreCompileInputs.cache
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\Instance-Property-Struct-Enum.dll
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\refint\Instance-Property-Struct-Enum.dll
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\Instance-Property-Struct-Enum.pdb
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\Instance-Property-Struct-Enum.genruntimeconfig.cache
+D:\github\Instance-Property-Struct-Enum\obj\Debug\net7.0\ref\Instance-Property-Struct-Enum.dll
